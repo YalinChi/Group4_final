@@ -1,0 +1,10 @@
+# Import modules
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Import datasets to be merged
+Client_Data=pd.read_csv('D:/group4/predict-energy-behavior-of-prosumers/data/client.csv')
+Train_Data=pd.read_csv('D:/group4/predict-energy-behavior-of-prosumers/data/train.csv')
+Train_Data.head()
