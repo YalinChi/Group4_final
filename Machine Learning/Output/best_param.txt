@@ -1,0 +1,76 @@
+	Best value (MAE): 59.32963                                                 
+	Best params Consumption_model_lgbm:
+		n_estimators: 7500
+		learning_rate: 0.04592010474307811
+		num_leaves: 56
+		max_depth: 14
+		min_data_in_leaf: 375
+		lambda_l1: 0.03410311762087645
+		lambda_l2: 0.9845952843721262
+		min_gain_to_split: 0.5296254111362524
+		feature_fraction: 0.6370684599391575
+		feature_fraction_bynode: 0.677857615956361	
+
+        Best value (MAE): 53.69970
+	Best params Production_model_lgbm:
+		n_estimators: 6500
+		learning_rate: 0.0807960024938446
+		num_leaves: 244
+		max_depth: 12
+		min_data_in_leaf: 873
+		lambda_l1: 2.4284658083286974
+		lambda_l2: 2.9442603917437324
+		min_gain_to_split: 1.3531656889137775
+		feature_fraction: 0.9696603522093273
+		feature_fraction_bynode: 0.7591695281520368
+
+	Best value (MAE): 58.90186
+	Best params Consumption_48h_diif_model_lgbm:
+		n_estimators: 2500
+		learning_rate: 0.02993382083458325
+		num_leaves: 256
+		max_depth: 9
+		min_data_in_leaf: 379
+		lambda_l1: 4.304115523255496
+		lambda_l2: 0.6953892324335332
+		min_gain_to_split: 1.0845923138763394
+		feature_fraction: 0.7859452310000432
+		feature_fraction_bynode: 0.5603115720404521
+
+	Best value (MAE): 50.077291366698795
+	Best params Production_48h_diif_model_lgbm:
+        parameters: {'n_estimators': 8000, 'learning_rate': 0.035981011598288884, 'num_leaves': 228, 'max_depth': 7,         'min_data_in_leaf': 748, 'lambda_l1': 2.8060900368975457, 'lambda_l2': 3.8180265777682476, 'min_gain_to_split': 0.1312833406307447, 'feature_fraction': 0.8463614995339133, 'feature_fraction_bynode': 0.8673847748845752}. 
+
+
+        Best value (MAE): 59.43302
+	Best params Consumption_model_Catboost:
+		iterations: 4500
+		learning_rate: 0.01240813245424538
+		depth: 11
+		random_strength: 15.676074935669043
+		subsample: 0.7877393817115238
+		min_data_in_leaf: 119
+		reg_lambda: 3.7806933338325157
+
+	Best value (MAE): 51.42945
+	Best params Production_model_Catboost:
+		iterations: 8000
+		learning_rate: 0.05078515042769798
+		depth: 3
+		random_strength: 14.176793288653343
+		subsample: 0.5249233420252732
+		min_data_in_leaf: 754
+		reg_lambda: 3.8887691626560406
+
+	Best value (MAE): 58.38045
+	Best params Consumption_48h_diif_model_Catboost:
+		iterations: 9000
+		learning_rate: 0.016862985221162422
+		depth: 10
+		random_strength: 29.84529179985335
+		subsample: 0.5799090266204205
+		min_data_in_leaf: 790
+		reg_lambda: 2.9400782862345847
+
+	Best value (MAE): 51.03460936870907
+        parameters: {'iterations': 6500, 'learning_rate': 0.018259963452920122, 'depth': 8, 'random_strength': 30.5673223926427,          'subsample': 0.5042710648358888, 'min_data_in_leaf': 557, 'reg_lambda': 3.050085237442225}. 
