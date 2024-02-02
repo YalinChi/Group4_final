@@ -17,9 +17,9 @@ Steps as follows
 - Separating consumption and production pattern for prediction
 - Separating the train set, test set and validation set
 - Getting Hyperparameter
-- Training mean consumption and mean production using LightGBM, CatBoost and Ensembled Model of the two.
+- Training consumption and production for different kind of prosumers using LightGBM, CatBoost and Ensembled Model of the two.
 4. Evaluation
-- Mean Absolute Error (MAE) calculation
+- Mean Absolute Error (MAE) for  calculation
 
 Data 
 Access to our raw data through link below : https://wageningenur4.sharepoint.com/:f:/r/sites/course239381/Gedeelde%20documenten/Group%204/Data?csf=1&web=1&e=s6zTE2
