@@ -25,8 +25,9 @@ Data
 Access to our raw data through link below : https://wageningenur4.sharepoint.com/:f:/r/sites/course239381/Gedeelde%20documenten/Group%204/Data?csf=1&web=1&e=s6zTE2
 
 Folders
-Each folder containing our deliverables in each step and named under the process taken
+In the repository named "main": Each folder containing our deliverables in each step and named under the process taken
 "Graph and Figures" contains our deliverables of visualization
+In the repository named "machine learning": It contains codes for the whole machine-learning process
 
 This project is part of our Data Science for Smart Environments GRS35306 course.
 Group 4
