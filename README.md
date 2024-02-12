@@ -26,7 +26,7 @@ Access to our raw data through link below : https://wageningenur4.sharepoint.com
 
 Folders
 In the repository named "main": Each folder containing our deliverables in each step and named under the process taken
-"Graph and Figures" contains our deliverables of visualization  
+"Graph and Figures" contains our deliverables of visualization    
 The code files, data files, and model files for the machine learning section can be found at this link.: https://drive.google.com/drive/folders/1PQZAo9CL5MsiguuBFTxHoRHoiDbpg5aY?usp=drive_link
 
 This project is part of our Data Science for Smart Environments GRS35306 course.
